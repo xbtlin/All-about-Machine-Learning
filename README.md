@@ -7,4 +7,4 @@ All materials related to Machine Learning is collected here like conferences,boo
 
 
 ## Websites   
-- <arXiv.org> could follow the latest papers.   
+- <http://arxiv.org/> could follow the latest papers.   
