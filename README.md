@@ -1,5 +1,6 @@
 # All-about-Machine-Learning
 All materials related to Machine Learning is collected here like conferences,books,algorithms and so on.
+机器学习的相关资料，包括国际会议、书、算法等等。
 
 ##Top Conferences   
 - SIGMOD (Special Interest Group on Management Of Data). Focus on data analytics (DanaC), databases and the Web (WebDB), exploratory search (ExploreDB), managing and mining spatial data (GeoRich), and graph data (GRADES) in 2015.
@@ -8,3 +9,10 @@ All materials related to Machine Learning is collected here like conferences,boo
 
 ## Websites   
 - <http://arxiv.org/> could follow the latest papers.   
+ 
+## Books   
+- 统计学习方法（李航）    
+- 机器学习（周志华）
+- 数学之美（吴军）
+
+
