@@ -13,6 +13,13 @@ All materials related to Machine Learning is collected here like conferences,boo
 ## Books   
 - 统计学习方法（李航）    
 - 机器学习（周志华）
-- 数学之美（吴军）
+- 数学之美（吴军）  
+
+## Tensorflow
+- [Tutorial to Tensorflow](https://www.oreilly.com/learning/hello-tensorflow)   
+
+
+## MapReduce   
+- [How to Write a MapReduce Program](https://www.mapr.com/blog/how-write-mapreduce-program)    
 
 
