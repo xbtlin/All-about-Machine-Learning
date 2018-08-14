@@ -3,7 +3,7 @@ All materials related to Machine Learning is collected here like conferences,boo
 机器学习的相关资料，包括国际会议、书、算法等等。
 
 ## Paper
-- [word2vector](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- [word2vector 论文](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
 
 ## Top Conferences   
 - SIGMOD (Special Interest Group on Management Of Data). Focus on data analytics (DanaC), databases and the Web (WebDB), exploratory search (ExploreDB), managing and mining spatial data (GeoRich), and graph data (GRADES) in 2015.
