@@ -4,7 +4,7 @@ All materials related to Machine Learning is collected here like conferences,boo
 
 ## Paper
 - [word2vector 论文](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
-- [lstm ppt](http://people.idsia.ch/~juergen/lstm2003tutorial.pdf)
+- [LSTM ppt](http://people.idsia.ch/~juergen/lstm2003tutorial.pdf)
 
 ## Top Conferences   
 - SIGMOD (Special Interest Group on Management Of Data). Focus on data analytics (DanaC), databases and the Web (WebDB), exploratory search (ExploreDB), managing and mining spatial data (GeoRich), and graph data (GRADES) in 2015.
@@ -26,4 +26,5 @@ All materials related to Machine Learning is collected here like conferences,boo
 ## MapReduce   
 - [How to Write a MapReduce Program](https://www.mapr.com/blog/how-write-mapreduce-program)    
 
-
+## 工具
+- [Latex初学指南](http://www.docs.is.ed.ac.uk/skills/documents/3722/3722-2014.pdf)
