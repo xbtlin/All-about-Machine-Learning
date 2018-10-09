@@ -11,7 +11,10 @@ All materials related to Machine Learning is collected here like conferences,boo
 
 ## Top Conferences   
 - SIGMOD (Special Interest Group on Management Of Data). Focus on data analytics (DanaC), databases and the Web (WebDB), exploratory search (ExploreDB), managing and mining spatial data (GeoRich), and graph data (GRADES) in 2015.
-- KDD (Knowledge Discovery and Data Mining).      
+- KDD (Knowledge Discovery and Data Mining). 
+- CVPR
+- NIPS
+- SIGIR
 
 
 ## Websites   
