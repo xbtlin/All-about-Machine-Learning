@@ -25,8 +25,9 @@ All materials related to Machine Learning is collected here like conferences,boo
 - 机器学习（周志华）
 - 数学之美（吴军）  
 
-## Tensorflow
+## 框架
 - [Tutorial to Tensorflow](https://www.oreilly.com/learning/hello-tensorflow)   
+- [XGBoost 0.8官方手册](https://media.readthedocs.org/pdf/xgboost/latest/xgboost.pdf)
 
 
 ## MapReduce   
