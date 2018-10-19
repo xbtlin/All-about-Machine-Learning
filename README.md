@@ -8,6 +8,8 @@ All materials related to Machine Learning is collected here like conferences,boo
 - [图神经网络](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.1015.7227&rep=rep1&type=pdf)
 - [FFM](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
 - [Wide and Deep](https://arxiv.org/pdf/1606.07792.pdf)
+- [BERT](https://arxiv.org/pdf/1810.04805.pdf) 谷歌出的打破各种nlp记录的文章
+
 
 ## Top Conferences   
 - SIGMOD (Special Interest Group on Management Of Data). Focus on data analytics (DanaC), databases and the Web (WebDB), exploratory search (ExploreDB), managing and mining spatial data (GeoRich), and graph data (GRADES) in 2015.
