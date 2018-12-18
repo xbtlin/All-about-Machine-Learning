@@ -9,6 +9,7 @@ All materials related to Machine Learning is collected here like conferences,boo
 - [FM](https://www.csie.ntu.edu.tw/~b97053/paper/Rendle2010FM.pdf);   [FFM](https://www.csie.ntu.edu.tw/~cjlin/papers/ffm.pdf)
 - [Wide and Deep](https://arxiv.org/pdf/1606.07792.pdf)
 - [BERT](https://arxiv.org/pdf/1810.04805.pdf) 谷歌出的打破各种nlp记录的文章
+- [Attation is all you need](https://arxiv.org/pdf/1706.03762.pdf)
 
 
 ## Top Conferences   
